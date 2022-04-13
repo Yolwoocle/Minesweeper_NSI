@@ -1,2 +1,2 @@
 # Minesweeper_NSI
-A été déplacé vers Minesweeper_Royale
+Déplacé vers [https://github.com/Yolwoocle/Minesweeper_Royale](https://github.com/Yolwoocle/Minesweeper_Royale).
